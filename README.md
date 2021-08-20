@@ -6,4 +6,4 @@ I'm continuously exploring and actively embracing new technologies. While attend
 
 ### Technical Skills
 <img src="https://img.shields.io/badge/Unity-3766AB?style=flat-square&logo=Unity&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C#-3766AB?style=flat-square&logo=C#&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-3766AB?style=flat-square&logo=C#&logoColor=white"/></a>
